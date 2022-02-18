@@ -1,0 +1,10 @@
+# python virtual env 
+venv
+
+# python runtime cache
+__pycache__
+*.cfg
+
+
+# python wsgi build files
+*.spec 
